@@ -3,6 +3,9 @@
 # Chevah Build Script for CPython distribution.
 #
 
+# Script initialization.
+set -o pipefail
+
 PYTHON_UPSTREAM_VERSION='2.7.8'
 PYTHON_BUILD_VERSION='+chevah1'
 LIBFFI_UPSTREAM_VERSION='3.2.1'

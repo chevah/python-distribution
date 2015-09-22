@@ -36,10 +36,3 @@ Where:
   chevah2
 * PREVER is a marker to signal that the version should not be used for
   production. It can look like: test1 adir3
-
-
-Distribution tests
-------------------
-
-A simple script is used for checking that a Python instance has the required
-modules to be used by the Chevah project.

@@ -1,5 +1,5 @@
 build-runtime/
-cache/
+cache
 DEFAULT_VALUES
 __pycache__/
 *.py[cod]
